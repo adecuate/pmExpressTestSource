@@ -1,0 +1,59 @@
+@CHARSET "ISO-8859-1";
+body{
+    background: url(/resources/images/sport.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+button{
+    margin-left: 20px;
+    background-color: #FFD30D;
+}
+
+
+h2{
+    font-size: 20px;
+    color: #FFD30D;
+}
+
+input.input-box, textarea {
+    font-size: 20px;
+    background-color : #FFD30D;
+}
+
+label {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ECE9E0;
+    color: #656665;
+    border: 16px solid #ECE9E0;
+    border-radius: 20px;
+}
+
+label1{
+    font-size: 20px;
+    color : #FFD30D;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ECE9E0;
+    color: #656665;
+    border: 16px solid #ECE9E0;
+    border-radius: 20px;
+}
+th {
+    font-size: 13px;
+    padding: 10px;
+}
+td {
+    background: #fff942;
+    padding: 10px;
+}
