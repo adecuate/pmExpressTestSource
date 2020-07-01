@@ -13,7 +13,7 @@
 
   <properties>
     <log4j-api.version>2.13.0</log4j-api.version>
-    <log4j-core.version>2.13.0</log4j-core.version>
+    <log4j-core.version>2.13.2</log4j-core.version>
     <spring.version>5.2.3.RELEASE</spring.version>
     <hibernate.version>5.4.10.Final</hibernate.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
